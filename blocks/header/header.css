@@ -1,0 +1,26 @@
+@import url(./__lang-link-en/header__lang-link-en.css);
+@import url(./__lang-link-es/header-lang-link-es.css);
+
+.header {
+  max-width: 984px;
+  height: 136px;
+  position: relative;
+  margin: auto;
+}
+
+@media screen and (max-width: 1124px) {
+	.header {
+     max-width: 928px;
+
+  }
+}
+
+@media screen and (max-width: 820px) {
+	.header {
+     max-width: 720px;
+
+  }
+}
+
+
+
