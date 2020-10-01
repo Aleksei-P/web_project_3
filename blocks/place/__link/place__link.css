@@ -7,13 +7,14 @@
   margin-top: 12px;
   width: 100%;
   transition: opacity 0.5s;
+  color: #FFFFFF;
 }
 
 .place__link:hover {
   opacity: 0.8;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
 	.place__link {
 		visibility: hidden;
   }

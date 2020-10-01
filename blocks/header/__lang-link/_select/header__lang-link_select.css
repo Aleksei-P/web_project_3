@@ -1,0 +1,13 @@
+.header__lang-link_select {
+  color: #FFFFFF;
+
+}
+
+.header__lang-link_select:hover {
+  text-decoration: underline;
+
+}
+
+.header__lang-link_select:focus {
+  text-decoration: underline;
+}

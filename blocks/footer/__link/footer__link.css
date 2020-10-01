@@ -7,7 +7,7 @@
   color: white;
   margin-right: 24px;
   margin-left: 0px;
-  transform: opacity 0.5;
+  transition: opacity 0.5s;
 }
 
 .footer__link:hover {
