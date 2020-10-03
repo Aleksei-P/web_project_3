@@ -10,6 +10,7 @@
   background-image: url(../../../sprint-3-images-eng/sprint-3-images-en/cover-route-66.jpg);
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 
 .cover__link::after {
